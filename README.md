@@ -6,6 +6,8 @@
   - 🐤 @MikelMaldonado
   - 📷 @mikelmc19
 
+- Trying to help transalting some proyects on https://www.transifex.com/user/profile/MikelMC96byte/
+
 <!---
 MikelMC96byte/MikelMC96byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
