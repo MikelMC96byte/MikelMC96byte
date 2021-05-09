@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mikel Maldonado, @MikelMC96byte on GitHub.
 - 👀 I’m interested in programming, security, technology and science in general. 
 - 🌱 Currently working as Sysadmin in an IT department and learning Web Applications Development.
-- 💞️ Looking to collaborate on fun and useful open source proyects.
+- 💞️ Looking forward to work on fun and useful open source proyects.
 - 📫 You can reach me through my social media:
   - 🐤 @MikelMaldonado
   - 📷 @mikelmc19
