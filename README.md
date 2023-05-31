@@ -3,8 +3,6 @@
 - 🌱 Currently working as Sysadmin in an IT department and learning Web Applications Development.
 - 💞️ Looking forward to work on fun and useful open source proyects.
 - 📫 You can reach me through my social media:
-  - 🐤 @MikelMaldonado
-  - 📷 @mikelmc19
 
 - Translating to Spanish and Basque some proyects on https://www.transifex.com/user/profile/MikelMC96byte/
 
